@@ -36,7 +36,7 @@ If hosting locally:
 - Apex Launcher  
   https://launcher.stevesmp.us/
 
-- ShadowNetLauncher Site:
+- ShadowNetLauncher
   https://shadownetworkdevs.github.io/ShadowNetClientLauncher
 
 ---
